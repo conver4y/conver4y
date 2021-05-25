@@ -15,9 +15,7 @@
 
 ### My works:
 - https://blob-project.com
-- https://botsfordiscord.com/bot/663326517731917844
-- https://open.spotify.com/artist/70AzjYUmP524pQbJXWWJoa
-- https://youtube.com/BlobDevelopment
+- https://ray1337.com
 
 <br>
 
