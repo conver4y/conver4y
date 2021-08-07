@@ -1,17 +1,17 @@
 ## Hi, I'm <a href="https://13373333.one/" target="_blank">ray.</a> 👋
 ### About
 - 🤖 I'm currently learning about Artificial Intelligence, Discord Bot project and stuff.
-- 🎓 I'm still in the vocational high school.
-- 💼 Self-employed.
+- 🎓 I'm still in the high school.
+- 💼 Self-employed (freelancing)
 - 🧠 Full-stack developer.
-- ⭐ Rarely playing games, I guess.
-- ☕ Coffee addict. I'm dying without that.
+- 🎮 Not a big fan of video games.
+- ☕ Caffeine addicts. I'm dying without that.
 - ⏱ I'm 16 y.o.
 
 ### Soft-skills
 - 🤖 Javascript, Typescript, HTML/CSS
-- 🔧 Visual Studio Code, Windows Powershell
-- ⌨ Photoshop, Vegas Pro, FL Studio, Figma
+- 🔧 Visual Studio Code
+- ⌨ Photoshop, Vegas Pro, FL Studio
 
 ### My works:
 - https://blob-project.com
